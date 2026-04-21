@@ -76,7 +76,7 @@ Predicts stock price movements using an LSTM neural network trained on historica
 
 ---
 
-### [Signal Mind](https://github.com/isli-cara/signal-mind)
+### [Signal Mind](https://signalmind.lovable.app/)
 A SaaS burnout detection platform for professionals. Monitors behavioural and work pattern signals to surface early warnings before burnout occurs — giving individuals and teams time to course-correct.
 
 `Python` · `Machine Learning` · `Web App`
