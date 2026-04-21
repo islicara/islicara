@@ -76,14 +76,14 @@ Predicts stock price movements using an LSTM neural network trained on historica
 
 ---
 
-### [Signal Mind] //(https://github.com/isli-cara/signal-mind)
+### [Signal Mind](https://github.com/isli-cara/signal-mind)
 A SaaS burnout detection platform for professionals. Monitors behavioural and work pattern signals to surface early warnings before burnout occurs — giving individuals and teams time to course-correct.
 
 `Python` · `Machine Learning` · `Web App`
 
 ---
 
-### [Student Management System] // (https://github.com/isli-cara/student-mgmt-system)
+### [Student Management System](https://github.com/isli-cara/student-mgmt-system)
 Full-stack CRUD application with a Spring Boot REST API, MySQL database, JPA, and MVC architecture. Tested and documented with Postman.
 
 `Java` · `Spring Boot` · `MySQL` · `JPA` · `REST API` · `MVC`
