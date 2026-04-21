@@ -69,7 +69,7 @@ A deployable AI chatbot for business websites — handles lead capture, customer
 
 ## 💻 Software Development Projects
 
-### [AI Stock Market Predictor]((https://github.com/islicara/AI-Stock-Market-Predictor.git))
+### [AI Stock Market Predictor]((https://github.com/islicara/AI-Stock-Market-Predictor))
 Predicts stock price movements using an LSTM neural network trained on historical OHLCV data, combined with real-time financial news sentiment analysis. Includes a live dashboard that visualises predictions against actual market movement.
 
 `Python` · `TensorFlow` · `LSTM` · `NLTK` · `REST APIs` · `React`
