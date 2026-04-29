@@ -72,7 +72,7 @@ A deployable AI chatbot for business websites — handles lead capture, customer
 ### [AI Stock Market Predictor](https://github.com/islicara/AI-Stock-Market-Predictor)
 Predicts stock price movements using an LSTM neural network trained on historical OHLCV data, combined with real-time financial news sentiment analysis. Includes a live dashboard that visualises predictions against actual market movement.
 
-`Python` · `TensorFlow` · `LSTM` · `NLTK` · `REST APIs` · `React`
+`Python` · `Jupyter Notebook` · `LSTM` · `PowerShell` 
 
 ---
 
@@ -83,31 +83,17 @@ A SaaS burnout detection platform for professionals. Monitors behavioural and wo
 
 ---
 
-### [Student Management System](https://github.com/isli-cara/student-mgmt-system)
-Full-stack CRUD application with a Spring Boot REST API, MySQL database, JPA, and MVC architecture. Tested and documented with Postman.
+### [Football Match Predictor](https://github.com/Orest-Z/Football-Match-Predictor-AI-Agent)
+A Python-powered machine learning app that predicts football match outcomes (result, over 2.5 goals, BTTS) across European leagues and the Champions League, with a Streamlit dashboard for interactive use.
 
-`Java` · `Spring Boot` · `MySQL` · `JPA` · `REST API` · `MVC`
+`Python` · `Jupyter Notebook` · `PowerShell`
 
 ---
 
-### [Laboratory Equipment Management System](https://github.com/isli-cara/lab-equipment-mgmt)
+### [Laboratory Equipment Management System]
 OOP semester project implementing the State Pattern, abstract classes, and a Java Swing GUI. Includes full UML documentation — use case diagrams, class diagrams, and professional `.docx` documentation.
 
 `Java` · `Swing` · `OOP` · `State Pattern` · `UML`
-
----
-
-### [Sorting Algorithm Visualizer](https://github.com/isli-cara/sorting-visualizer)
-Interactive browser-based visualiser for six sorting algorithms — Radix Sort, Counting Sort, Bucket Sort, Merge Sort, Heap Sort, and QuickSort — with step-by-step animation and C++ implementations.
-
-`JavaScript` · `HTML/CSS` · `C++`
-
----
-
-### [Business Automation System](https://github.com/isli-cara/automation-system)
-Workflow automation toolkit for SMBs. Connects existing tools, removes bottlenecks, and replaces repetitive manual tasks with reliable automated pipelines.
-
-`Python` · `REST APIs` · `Process Automation`
 
 ---
 
@@ -146,6 +132,7 @@ Oracle · AWS
 SEO · Web Monetisation · OOP
 REST APIs · MVC · Design Patterns
 Automation Systems · ML Engineering
+Software Development
 ```
 
 </td>
@@ -169,13 +156,13 @@ Scoping, building, and deploying end-to-end automation systems for clients acros
 **B.Sc. Computer Science** — FSHN, University of Tirana
 Focus: OOP · Data Structures & Algorithms · Software Engineering · Databases · Design Patterns
 
-**20+ Certifications** in Web Design, Web Development & SEO
+**10+ Certifications** in Web Design, Web Development, SEO, Software Development
 
 ---
 
 <div align="center">
 
-**3+ years experience &nbsp;·&nbsp; 20+ certified &nbsp;·&nbsp; Web Design + Software Development**
+**3+ years experience &nbsp;·&nbsp; 10+ certified &nbsp;·&nbsp; Web Design + Software Development**
 
 Available for full-time roles, freelance projects, and technical collaborations.
 
