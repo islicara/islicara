@@ -90,7 +90,7 @@ A Python-powered machine learning app that predicts football match outcomes (res
 
 ---
 
-### [Laboratory Equipment Management System]
+### Laboratory Equipment Management System
 OOP semester project implementing the State Pattern, abstract classes, and a Java Swing GUI. Includes full UML documentation — use case diagrams, class diagrams, and professional `.docx` documentation.
 
 `Java` · `Swing` · `OOP` · `State Pattern` · `UML`
