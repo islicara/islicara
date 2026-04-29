@@ -90,6 +90,13 @@ A Python-powered machine learning app that predicts football match outcomes (res
 
 ---
 
+### [AI Code Reviewer](https://github.com/islicara/Code-Review-AI)
+An AI-powered code review assistant that analyzes your code for security vulnerabilities, performance issues, and best practices, with a dark dashboard showing severity-rated findings and quality metrics.
+
+`React` · `Node.js` · `Express` · `Google Gemini`
+
+---
+
 ### Laboratory Equipment Management System
 OOP semester project implementing the State Pattern, abstract classes, and a Java Swing GUI. Includes full UML documentation — use case diagrams, class diagrams, and professional `.docx` documentation.
 
