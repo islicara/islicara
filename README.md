@@ -97,6 +97,13 @@ An AI-powered code review assistant that analyzes your code for security vulnera
 
 ---
 
+### [Broadcast Server](https://github.com/islicara/Broadcast-Server)
+A CLI-based WebSocket broadcast server where any message sent by a connected client is instantly relayed to all others in real time. Features named clients, system notifications for joins and disconnects, and graceful shutdown.
+
+`Node.js` · `WebSockets` · `ws` · `Commander.js` · `Chalk` 
+
+---
+
 ### Laboratory Equipment Management System
 OOP semester project implementing the State Pattern, abstract classes, and a Java Swing GUI. Includes full UML documentation — use case diagrams, class diagrams, and professional `.docx` documentation.
 
