@@ -29,7 +29,7 @@ High-converting websites built with clean UI, fast load times, and SEO baked in 
 
 Full-stack apps, ML models, and automation systems built for production — from Spring Boot APIs to LSTM neural networks.
 
-`Python` `Java` `Spring Boot` `TensorFlow` `C++` `Node.js`
+`Python` `Java` `Spring Boot` `TensorFlow` `C++`
 
 </td>
 </tr>
@@ -68,6 +68,13 @@ A deployable AI chatbot for business websites — handles lead capture, customer
 ---
 
 ## 💻 Software Development Projects
+
+### [High-Performance Multi-Threaded Money Transfer API](https://github.com/islicara/high-performance-money-transfer-api)
+Low-latency backend REST API implementing deterministic resource lock ordering for deadlock prevention, atomic transaction safety, and BigDecimal precision. Engineered using strict Test-Driven Development (TDD) principles and optimized for high-throughput concurrency, featuring a comprehensive JUnit 5 load-testing suite simulating 100+ simultaneous threads.
+
+`Java 17` · `Javalin` · `Concurrency` · `TDD` · `JUnit 5`
+
+---
 
 ### [AI Stock Market Predictor](https://github.com/islicara/AI-Stock-Market-Predictor)
 Predicts stock price movements using an LSTM neural network trained on historical OHLCV data, combined with real-time financial news sentiment analysis. Includes a live dashboard that visualises predictions against actual market movement.
