@@ -75,6 +75,12 @@ Low-latency backend REST API implementing deterministic resource lock ordering f
 `Java 17` · `Javalin` · `Concurrency` · `TDD` · `JUnit 5`
 
 ---
+### [Real-Time FX Rate Processor & Cache](https://github.com/islicara/real-time-fx-rate-processor-cache)
+Containerized, distributed backend infrastructure engine featuring real-time transaction tracking and O(1) cache-aside routing strategy. Built following strict TDD patterns utilizing Spock framework behavior testing, type-safe jOOQ schemas for PostgreSQL audit logs, and highly scalable Multi-Replica Kubernetes deployment blueprints.
+
+`Java 21` · `Redis` · `PostgreSQL` · `jOOQ` · `Spock` · `Docker` · `Kubernetes` · `SparkJava`
+
+---
 
 ### [AI Stock Market Predictor](https://github.com/islicara/AI-Stock-Market-Predictor)
 Predicts stock price movements using an LSTM neural network trained on historical OHLCV data, combined with real-time financial news sentiment analysis. Includes a live dashboard that visualises predictions against actual market movement.
